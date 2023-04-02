@@ -1192,3 +1192,12 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.vl-hover {
+  display: flex;
+  justify-content: center;
+}
+
+.vl {
+  border-left: 4px solid #18d26e;
+}
